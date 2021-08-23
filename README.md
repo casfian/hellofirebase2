@@ -1,7 +1,10 @@
 # hellofirebase2
 
-A new Flutter Firebase Authentication using provider project.
-Null-safety updated
+A new Flutter Firebase Authentication using Provider project.
+
+Null-safety updated.
+
+Can be Boiler-plate for any Flutter Project that requires Firebase, Authentication and Provider package.
 
 ## Getting Started
 
