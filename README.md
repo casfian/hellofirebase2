@@ -1,6 +1,7 @@
 # hellofirebase2
 
-A new Flutter project.
+A new Flutter Firebase Authentication using provider project.
+Null-safety updated
 
 ## Getting Started
 
