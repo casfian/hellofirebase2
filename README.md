@@ -6,6 +6,8 @@ Null-safety updated.
 
 Can be Boiler-plate for any Flutter Project that requires Firebase, Authentication and Provider package.
 
+Make sure Firebase Authentication Email & Password is used.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
